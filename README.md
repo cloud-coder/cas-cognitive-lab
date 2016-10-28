@@ -45,7 +45,7 @@ to invoke REST APIs created above from AngularJS application.
 
 ## Training IBM Watson Services
 
-A [video demo](05-demo/demo.md) of how to train IBM Watson Visual Recognition Service to detect
+A [video demo](https://www.youtube.com/watch?v=U-yJYHks1_s) of how to train IBM Watson Visual Recognition Service to detect
 Visual patterns.
 
 [comment]: # "------------------------------------------------------------------------------"
