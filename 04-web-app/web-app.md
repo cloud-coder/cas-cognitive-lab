@@ -21,7 +21,7 @@ to review the code and modify it as you see fit.
 - Clone the [web application GIT repository][appgit] into this folder
 
   ```bash
-  git clone <git repo URL>
+  git clone https://github.com/cloud-coder/cas-cognitive-lab.git
   ```
 - Alternatively, unzip `my-cognitive-app1.zip` from solutions folder into `~/workshop/<email-id>-cognitive-app1`
   as shown below.
